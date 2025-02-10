@@ -10,7 +10,7 @@ Maria Rivera Gutierrez
 
 ### Images
 
-![Big reputation, big reputation](https://taylorswift.fandom.com/wiki/Reputation)
+![Big reputation, big reputation](/Taylor_Swift_-_reputation.webp)
 
 ## References
 [Github documentation](https://docs.github.com/en)
