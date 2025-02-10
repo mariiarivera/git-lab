@@ -1,5 +1,13 @@
 # Git and github laboratory
 
-Git practice laboratory
+## Description
+
+Git practice laboratory, now using more text
 
 Maria Rivera Gutierrez
+
+## Contents
+
+
+
+## References
