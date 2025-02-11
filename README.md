@@ -14,6 +14,11 @@ Maria Rivera Gutierrez
 
 ### code examples
 
+## Lists
+
+- Turn on GitHub Pages
+- Outline my portfolio
+- Introduce myself to the world
 
 ## References
 [Github documentation](https://docs.github.com/en)
