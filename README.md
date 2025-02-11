@@ -12,9 +12,13 @@ Maria Rivera Gutierrez
 
 ![Big reputation, big reputation](/Taylor_Swift_-_reputation.webp)
 
-### code examples
+### Code Examples
 
-## Lists
+```python a = float(input("a Value: "))```
+```python b = float(input("b Value: "))```
+```python sum = a + b```
+
+### Lists
 
 - Turn on GitHub Pages
 - Outline my portfolio
