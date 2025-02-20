@@ -1,11 +1,16 @@
-<!DOCTYPE HTML>
-<html>
-    <head>
-        <title>Version control</title>
-    </head>
-    <body>
-        <main>
-            <h1>Git and Github lab!</h1>
-        </main>
-    </body>
-</html>
+{
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "name": "mydb",
+    "user": "myuser"
+  },
+  "server": {
+    "host": "0.0.0.0",
+    "port": 3000
+  },
+  "logging": {
+    "level": "info",
+    "file": "./logs/app.log"
+  }
+}
